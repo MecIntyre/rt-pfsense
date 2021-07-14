@@ -1,7 +1,17 @@
-# pfsense
+# Border Gateway (Router)
 
-Vagrantfile für die Installation eines einfachen pfsense-Netzwerks.
+```bash
+Vagrantfile für die Installation eines Routers, mit einer pfsense.
+```
 
-### Achtung:
+# Benutzung
 
+```bash
+cd rt-pfsense
+make
+```
+# Achtung:
+
+```bash
 Nach der Installation muss der rt-pfsense auf Werkseinstellungen zurückgesetzt werden. 
+```
