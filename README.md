@@ -1,7 +1,7 @@
 # Border Gateway (Router)
 
 ```bash
-Vagrantfile für die Installation eines Routers, mit einer pfsense.
+Vagrantfile für die Installation eines Routers + pfsense und einer weiteren VM-Klientumgebung (Ubuntu).
 ```
 
 # Benutzung
